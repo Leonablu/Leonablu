@@ -33,7 +33,7 @@
 
 ### 🌍 **Мои соцсети**:
 - [**GitHub**](https://github.com/Leonablu) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white) — где можно увидеть мои проекты.
-- [**Telegram**](https://t.me/LeonaBluDev) ![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white) — для быстрого контакта.
+- [**Telegram**](https://t.me/LeonaBlu) ![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white) — для быстрого контакта.
 
 ---
 
